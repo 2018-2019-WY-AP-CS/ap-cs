@@ -32,4 +32,13 @@ public class AddTester
     public void tearDown()
     {
     }
+
+    @Test
+    public void test_automatic()
+    {
+        Adder adder1 = new Adder(7);
+        assertEquals(14, adder1.add(7));
+        assertEquals(20, adder1.add(13));
+    }
 }
+

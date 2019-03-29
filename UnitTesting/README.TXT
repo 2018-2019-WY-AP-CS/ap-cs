@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: UnitTesting
+PURPOSE OF PROJECT: Demonstrate how to use JUnit testing in Java - BlueJ or repl.it
+VERSION or DATE: March 2019
+HOW TO START THIS PROJECT: Get the whole directory (`Adder`, `AddTester` and `package.bluej`) 
+and open it in BlueJ. If you are using repl.it, then you need to uncomment the runner in Main.java.
+

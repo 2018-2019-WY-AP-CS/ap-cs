@@ -1,4 +1,5 @@
-
+import junit.runner.Version;
+        
 public class Adder
 {
     // instance variables - replace the example below with your own
@@ -14,5 +15,9 @@ public class Adder
 
     public int add(int y) {
         return x+y;
+    }
+    public static void junit()
+    {
+        System.out.println("JUnit version is: " + Version.id());    
     }
 }
